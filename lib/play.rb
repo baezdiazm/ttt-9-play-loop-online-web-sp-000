@@ -42,6 +42,6 @@ end
    until counter == board.size do
      turn(board)
      counter +=
-   end
+  # end
 
  end
