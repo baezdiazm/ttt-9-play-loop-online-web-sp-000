@@ -39,7 +39,7 @@ end
  def play(board)
    counter = 0
 
-   until counter == board.size do
+   while counter == board.size do
      turn(board)
      counter +=
   # end
