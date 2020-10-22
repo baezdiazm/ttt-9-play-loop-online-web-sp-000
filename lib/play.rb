@@ -40,8 +40,8 @@ end
    counter = 0
 
    while counter < board.size do
-     turn(board)
+     #turn(board)
      counter +=
-  # end
+   end
 
  end
